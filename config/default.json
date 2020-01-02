@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tudor:123qwe@devconnector-q3r14.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "random"
+}
